@@ -38,8 +38,8 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 
 ### **Movil**
 
-- Frontend:
-- Backend:
+- Frontend: Android con kotlin.
+- Backend: Firebase.
 
 # Esquema E/R de la base de datos
 
@@ -69,4 +69,4 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 
 # Enlace al repositorio
 - Web: https://github.com/PabloGM1204/TFG-ActiveLife-Angular
-- Movíl: 
+- Movíl: https://github.com/AntonioLuisGarcia/ActiveLife
