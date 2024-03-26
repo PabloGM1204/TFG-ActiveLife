@@ -42,6 +42,7 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 - Backend: Firebase.
 
 # Esquema E/R de la base de datos
+![esquema E/R]()
 
 ### Colección "Clientes":
 
