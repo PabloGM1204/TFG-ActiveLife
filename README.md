@@ -33,7 +33,7 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 
 ### Web
 
-- Frontend: Angular con Ionic, Integración de Servicio de Correo Electrónico.
+- Frontend: Angular con Ionic, Integración de Servicio de Correo Electrónico (Opcional).
 - Backend: Firebase.
 
 ### **Movil**
@@ -55,7 +55,7 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 - Contiene documentos para cada administrador, identificados por su UUID.
 - Campos: nombre, email, numTelefono, admin y aceptado ( Para que el SuperAdmin los acepte como admin)
 
-### Colección "ProblemasSalud":
+### Colección "ProblemasSalud" (Opcional ya que es sustituible por las mismas citas):
 
 - Contiene documentos que representan los problemas de salud reportados por los clientes.
 - Campos como la descripción del problema, la fecha, el estado, fotografía.
