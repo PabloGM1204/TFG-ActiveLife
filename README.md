@@ -74,5 +74,5 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
     - "adminId": este campo contendrá el UUID del administrador al que se le asignó la cita.
 
 # Enlace al repositorio
-- Web: https://github.com/PabloGM1204/TFG-ActiveLife-Angular
+- Web: https://github.com/PabloGM1204/TFC-ActiveLife-Angular
 - Movíl: https://github.com/AntonioLuisGarcia/ActiveLife
