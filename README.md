@@ -16,7 +16,7 @@ Proyecto orientado a temas de salud, disponible tanto en web ( Angular / Ionic )
 # Presentación
 
 - [Link](https://www.canva.com/design/DAGH1HsaKl4/ms3enYkuGv-CnE667Bargg/edit?utm_content=DAGH1HsaKl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- FormatoPDF
+- [FormatoPDF](ActiveLife.pdf)
 
 ### **Cliente:**
 
