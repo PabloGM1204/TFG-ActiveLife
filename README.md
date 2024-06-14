@@ -18,13 +18,15 @@ Proyecto orientado a temas de salud, disponible tanto en web ( Angular / Ionic )
 - [Link](https://www.canva.com/design/DAGH1HsaKl4/ms3enYkuGv-CnE667Bargg/edit?utm_content=DAGH1HsaKl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [FormatoPDF](ActiveLife.pdf)
 
+# Tipos de usuarios
+
 ### **Cliente:**
 
 - Creación de rutinas de ejercicios personalizadas.
 - Solicitud de citas con administradores (entrenadores o médicos).
 - Registro de problemas de salud, lesiones u otras incidencias relevantes.
 
-### Administradores:
+### **Administradores:**
 
 - Edición de rutinas de ejercicios de los usuarios (si se le otorgan los permisos correspondientes).
 - Respuesta a las citas solicitadas por los clientes.
@@ -38,8 +40,9 @@ Crear una aplicación útil para que los clientes sean capaces de crear rutinas 
 
 ### Web
 
-- Frontend: Angular con Ionic, Integración de Servicio de Correo Electrónico (Opcional).
+- Frontend: Angular con Ionic y capacitor, Integración de Servicio de Correo Electronico con SMTP2GO.
 - Backend: Firebase.
+- Documentación: Compodoc.
 
 ### **Movil**
 
